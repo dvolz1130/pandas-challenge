@@ -1,7 +1,7 @@
 Obserable Trends
 1. Males make up about 84% of the total players among all genders/others and males bought the most optional items.
 2. The Age group of 20-24 makes up about 45% of the total players and this age groups spends the most on the optional items. Although this age group purchase more 
-   items then any other age group, the average purchase price is in around the middle of all age groups
+   items then any other age group, the average purchase price is around the middle of all age groups
 3. The most popular items are not always the most profitable due to price of the item.
 
 ```python
